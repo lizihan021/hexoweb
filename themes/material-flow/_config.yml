@@ -1,0 +1,48 @@
+# Search
+search: 
+  enable: true
+  service: hexo # google/hexo/algolia/azure/baidu
+  # google 
+  google_api_key:
+  google_engine_id:
+  # algolia
+  algolia_app_id:
+  algolia_api_key:
+  algolia_index_name:
+  # azure
+  azure_service_name:
+  azure_index_name:
+  azure_query_key:
+  # baidu
+  baidu_api_id:
+
+# friends link
+links:
+  - name: Hclmaster
+    url: https://hclmaster.github.io/
+  - name: WANG Hsü-Tung
+    url: https://whst.github.io/
+
+# navigation menu
+menu:
+  - name: Home
+    slug: home
+    url: /
+  - name: About
+    slug: about
+    url: /about
+
+# widgets
+widgets:
+  - about
+
+# Less
+less:
+  compress: true
+
+# use url, not username
+social:
+- slug: github
+  url: https://github.com/lizihan021
+- slug: linkedin
+  url: https://www.linkedin.com/in/zihan-li-927ba5126
