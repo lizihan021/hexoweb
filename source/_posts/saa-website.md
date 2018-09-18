@@ -7,7 +7,7 @@ SAA is Student Alumni Association of SJTU-UM JI. We made a website for the organ
 
 ![saa-website](/pic/saa-website/1.png)
 
-This project is made together with Wen He and Gaole Meng. 
+
 
 
 

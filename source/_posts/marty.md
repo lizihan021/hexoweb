@@ -1,11 +1,9 @@
 ---
 title: DIY Marty the Robot
-tags: 
-- RaspberryPi
 author: Li Zihan 
 ---
 
-**Marty the Robot** is a robot designed and manufactured by myself. To be honest I made the robot for fun. However, the robot could be used for teaching children programing. 
+**Marty the Robot** is a robot designed and manufactured by myself. Marty is 3D printed and is controlled by a Raspberry Pi and 9 servos. The robot could be used for programming education purpose.
 
 ![marty](/pic/marty/1.PNG)
 
