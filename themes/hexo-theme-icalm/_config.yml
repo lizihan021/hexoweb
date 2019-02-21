@@ -2,13 +2,13 @@
 menu:
   Home: /
   # Tags: /tags/
-  # Categories: /categories/
+  Blogs: /blogs/
   About: /about/
-  Projects: /archives/
+  Timeline: /archives/
 
 # Pictures shown on the sidebar
 # Use the absolute URL after generating
-avatar: /assets/logo.jpg
+avatar: /assets/logo.png
 sidebar_background: /assets/back.jpg
 
 rss: /atom.xml

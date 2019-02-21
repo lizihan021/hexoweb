@@ -1,6 +1,9 @@
 ---
 title: Roflcopter - Gesture Based Quad-copter Controller
+categories:
+  - Embedded System
 author: Li Zihan 
+date: 2017-3-20 23:21:22
 ---
 
 
