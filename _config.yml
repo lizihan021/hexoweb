@@ -81,5 +81,5 @@ theme: hexo-theme-icalm
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git   
-  repo: https://github.com/lizihan021/lizihan021.github.io
+  repo: git@github.com:lizihan021/lizihan021.github.io.git
   branch: master #published
