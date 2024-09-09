@@ -8,8 +8,8 @@ menu:
 
 # Pictures shown on the sidebar
 # Use the absolute URL after generating
-avatar: /assets/logo.png
-sidebar_background: /assets/back.jpg
+avatar: /assets/logo.jpg
+sidebar_background: /assets/bg.jpg
 
 rss: /atom.xml
 
@@ -23,6 +23,7 @@ media:
   github: https://github.com/lizihan021
   # facebook: https://www.facebook.com/profile.php?id=100004252391322
   linkedin: https://www.linkedin.com/in/zihan-li-927ba5126/
+  googlescholar: https://scholar.google.com/citations?user=8u4uk0sAAAAJ&hl=en
 source_han_font: true
 
 # Disqus settings
