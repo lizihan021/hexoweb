@@ -28,13 +28,12 @@ archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
-skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
+external_link.enable: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
 post_asset_folder: false
@@ -83,3 +82,6 @@ deploy:
   type: git   
   repo: git@github.com:lizihan021/lizihan021.github.io.git
   branch: master #published
+
+skip_render:
+  - 'static/*'
