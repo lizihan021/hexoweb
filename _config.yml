@@ -84,4 +84,6 @@ deploy:
   branch: master #published
 
 skip_render:
-  - 'static/*'
+  - 'games/**/*.js'
+  - 'games/**/*.css'
+  - 'games/**/*.html'
